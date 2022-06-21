@@ -1,0 +1,14 @@
+{
+  "id": "36df34c2-e133-4b33-809b-04e9914a0bc9",
+  "profile": "81a01c97-a026-43c3-bb33-d57b43c5c8ff",
+  "name": "table-preferences[]",
+  "type": "user",
+  "blob": {
+    "columns": [
+      "select",
+      "action"
+    ],
+    "filters": [],
+    "page_size": 25
+  }
+}

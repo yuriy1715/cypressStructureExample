@@ -1,0 +1,19 @@
+{
+  "name": "cypress_example",
+  "version": "1.0.0",
+  "description": "some cypress structure example",
+  "main": "index.js",
+  "scripts": {
+    "open:cypress": "cypress open",
+    "run:cypressAllTests": "cypress run",
+    "run:cypressByTags": "cypress run --env grepTags=\"@part1\""
+  },
+  "devDependencies": {
+      "cypress": "^10.1.0",
+      "cypress-grep": "^2.12.2",
+      "cypress-mochawesome-reporter": "^3.0.0",
+      "cypress-wait-until": "^1.7.2"
+    },
+  "author": "",
+  "license": "ISC"
+}

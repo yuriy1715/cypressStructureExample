@@ -1,0 +1,9 @@
+# Node Files #
+/node_modules
+
+# Cypress #
+cypress/test-results/**
+cypress/videos/*
+cypress/screenshots/*
+cypress/reports/*
+cypress/downloads/*
