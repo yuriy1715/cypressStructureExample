@@ -1,2 +1,2 @@
 # cypressStructureExample
-some tests structure for Cypress tests
+some tests structure for Cypress
